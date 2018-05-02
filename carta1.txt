@@ -1,2 +1,6 @@
 Hola mi nombre es Jose Luis Martinez Espiritu
+<<<<<<< HEAD
 dsgrtgrtgrtgfgbfgbfdf
+=======
+ALV 
+>>>>>>> 2caa90a15331b743ffb16514acbf26c58601eda6
